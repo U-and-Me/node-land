@@ -1,5 +1,5 @@
 ---
-name: issus_template.md
+name: issues_template.md
 about: 이슈 템플릿
 title: "[Node or TS] Day n"
 labels: ''
