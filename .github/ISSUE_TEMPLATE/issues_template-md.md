@@ -1,7 +1,7 @@
 ---
 name: issus_template.md
 about: 이슈 템플릿
-title: "[Node/TS] Day n"
+title: "[Node or TS] Day n"
 labels: ''
 assignees: U-and-Me
 
