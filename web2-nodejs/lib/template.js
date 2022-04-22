@@ -16,7 +16,7 @@ module.exports = {
       </html>
       `
     },
-    List:function(filelist){
+    list:function(filelist){
       var list = '<ul>';
               
       var i = 0;

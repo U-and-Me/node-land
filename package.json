@@ -1,0 +1,22 @@
+{
+  "name": "node-land",
+  "version": "1.0.0",
+  "description": "[Node] 생활코딩 강의 실습 저장소",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/U-and-Me/node-land.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/U-and-Me/node-land/issues"
+  },
+  "homepage": "https://github.com/U-and-Me/node-land#readme",
+  "dependencies": {
+    "sanitize-html": "^2.7.0"
+  }
+}
